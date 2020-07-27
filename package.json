@@ -1,0 +1,23 @@
+{
+  "name": "roblox-polling-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha6000/roblox-polling-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha6000/roblox-polling-test/issues"
+  },
+  "homepage": "https://github.com/ha6000/roblox-polling-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
